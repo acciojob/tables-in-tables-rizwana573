@@ -24,7 +24,7 @@ table, tr, td,caption, th{
 	text-align: center;
 }
 .four td{
-	background:#000;
+	background-color:rgb(0, 0, 0);
 	color: #fff;
 }
 caption{
