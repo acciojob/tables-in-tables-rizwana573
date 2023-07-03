@@ -23,7 +23,7 @@ table, tr, td,caption, th{
 	border: 1px solid #000;
 	text-align: center;
 }
-.four tr{
+.four td{
 	background:#000;
 	color: #fff;
 }
